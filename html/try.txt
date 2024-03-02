@@ -1,0 +1,6 @@
+<html>
+<frame set cols="20%,80%">
+<frame src="k.html" name="k">
+<frame src="(ajay).html" name="time table">
+</frameset>
+</html>
